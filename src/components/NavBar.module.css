@@ -1,0 +1,26 @@
+
+.navbar{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin:auto;
+    height: 9vh;
+}
+
+.brand{
+    font-size:1.75rem;
+}
+
+.nav__list{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding:0 10px;
+    list-style: none;
+    width: 50%;
+}
+
+a{
+    text-decoration: none;
+}

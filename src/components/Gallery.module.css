@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+
+}
+.box{
+    display: flex;
+    flex-direction: column;
+
+}
+.image{
+    width:20%;
+}
+
+img{
+    object-fit: contain;
+    width: 100%;
+    height:auto;
+}
+
+.normal__letter{
+    font-size: 1rem;
+    color:black;
+}
+
+.link__letter{
+    font-size:.75rem;
+    color:rgb(56, 56, 56);
+}
